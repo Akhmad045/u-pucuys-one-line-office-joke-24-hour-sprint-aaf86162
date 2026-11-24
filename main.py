@@ -11,8 +11,8 @@ import os
 import sys
 
 JOKE = (
-    "I used 'per my last email' in a reply today, and somewhere deep down "
-    "my soul started drafting its resignation letter."
+    "I wrote 'per my last email' today and felt my soul quietly file "
+    "for early retirement."
 )
 
 OUTPUT_PATH = os.environ.get("ENTRY_OUTPUT", "/output/entry.txt")
